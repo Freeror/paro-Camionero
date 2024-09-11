@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+    margin: 0%;
+    padding: 0%;
+    background-color: blue;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    height: 200px;
+}
+
+.texto {
+
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    height: 200px;
+}
